@@ -1,0 +1,7 @@
+hiplot==0.1.33
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.0.1
+pandera==0.15.1
+seaborn==0.12.2
+tabula==1.0.5
